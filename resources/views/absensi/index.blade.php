@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="d-flex justify-content-between align-items-center">
-    <h4><i class="bi bi-calendar-check"></i> Absensi</h4>
+    <h4><i class="bi bi-calendar-check"></i> KEHADIRAN KARYAWAN </h4>
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="{{ url('/') }}">Home</a></li>
@@ -55,8 +55,8 @@
                         <th>Hari</th>
                         <th>Tanggal</th>
                         <th>Cuti</th>
-                        <th>Jam Datang</th>
-                        <th>Jam Pulang</th>
+                        <th>Jam Hadir</th>
+                        <th>Jam Kepulangan</th>
                         <th>Jam Kerja</th>
                         <th>Uraian Pekerjaan</th>
                         <th>Action</th>
