@@ -7,15 +7,15 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
     <style>
-        body { background-color:rgb(11, 127, 243); }
-        .navbar-dark { background-color:rgb(26, 127, 228); }
+        body { background-color:rgb(163, 201, 239); }
+        .navbar-dark { background-color:rgb(99, 119, 206); }
         .card-header { background-color: #f8f9fa; }
     </style>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#"><b>RUANG-TA</b></a>
+            <a class="navbar-brand" href="#"><b>RUANG-TA BPKD</b></a>
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item dropdown">
