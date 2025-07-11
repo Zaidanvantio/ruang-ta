@@ -15,7 +15,10 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#"><b>RUANG-TA BPKD</b></a>
+                <div style="text-align: left;">
+                <h4>RUANG-TA BPKD</h4>
+                <p>ZAIDAN ELVANTIO</p> 
+                </div>
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item dropdown">
